@@ -25,7 +25,7 @@ window.SimpleAnime = class {
 new SimpleAnime();
 
 document.querySelector('.copy-button').addEventListener('click', function () {
-  var pixKey = '00000000'; // Substitua pelo valor da sua chave Pix
+  var pixKey = 'edelcassia@gmail.com'; // Substitua pelo valor da sua chave Pix
   var textArea = document.createElement('textarea');
   textArea.value = pixKey;
   document.body.appendChild(textArea);

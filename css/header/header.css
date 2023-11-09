@@ -7,6 +7,10 @@ header{
   width: 100%;
   height: 200px;
   background-size: cover;
+  position: absolute;
+  left: 0;
+  right: 0;
+
 }
 
 
@@ -15,6 +19,9 @@ header{
     background-size: auto;
   }
 }
+
+
+
 
 /* header{
   width: 100%;
