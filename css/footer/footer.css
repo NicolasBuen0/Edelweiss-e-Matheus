@@ -1,0 +1,15 @@
+footer{
+  background-image: url("../../img/footer.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+
+
+@media(min-width:600px){
+  footer{
+    background-size: auto;
+  }
+}
